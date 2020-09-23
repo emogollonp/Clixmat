@@ -10,6 +10,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love spending time with my family and learning new programming languages.
 <!-- PROFILE:END -->
+<br />
 
 ### Languages and Tools:
 
