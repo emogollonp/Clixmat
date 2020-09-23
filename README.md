@@ -40,7 +40,7 @@
 <!-- STATS:START -->
 <img align="left" alt="Clixmat Github Stats" src="https://github-readme-stats.clixmat.vercel.app/api?username=clixmat&show_icons=true&hide_border=true" />
 
-[![Clixmat wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clixmat)](https://wakatime.com/@Clixmat)
+[![Clixmat wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clixmat&show_icons=true&hide_border=true)](https://wakatime.com/@Clixmat)
 <!-- STATS:END -->
 
 [vsc]: https://code.visualstudio.com
