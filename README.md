@@ -1,5 +1,6 @@
 ### I'm a Husband, Father and Frontend Developer! 👋
 
+
 - 🔭 I’m currently working on [Golstats SAPI - México](https://golstats.com/)!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Nuxt.js
@@ -10,6 +11,7 @@
 - ⚡ Fun fact: I love spending time with my family and learning new programming languages.
 
 ### Languages and Tools:
+
 
 [<img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 [<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
@@ -31,6 +33,7 @@
 [<img align="left" alt="Terminal" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][cmd]
 
 ### Github Stats:
+
 
 <img align="left" alt="Clixmat Github Stats" src="https://github-readme-stats.clixmat.vercel.app/api?username=clixmat&show_icons=true&hide_border=true" />
 
