@@ -42,7 +42,7 @@
 [sass]: https://sass-lang.com
 [graphql]: https://graphql.org
 [node]: https://nodejs.org
-[sql]: hhttps://www.microsoft.com/es-es/sql-server/sql-server-2019
+[sql]: https://www.microsoft.com/es-es/sql-server/sql-server-2019
 [mysql]: https://www.mysql.com
 [mongo]: https://www.mongodb.com/es
 [git]: https://git-scm.com
