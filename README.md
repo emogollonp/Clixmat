@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][typescript]
+[<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][typescript]
 [<img align="left" alt="Nuxt.js" width="30px" src="https://avatars2.githubusercontent.com/u/23360933?s=200&v=4" />][nuxt]
 [<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Flutter" width="30px" src="https://avatars1.githubusercontent.com/u/14101776?s=88&v=4" />][flutter]
@@ -40,7 +40,7 @@
 
 <img align="left" alt="Clixmat Github Stats" src="https://github-readme-stats.clixmat.vercel.app/api?username=clixmat&show_icons=true&hide_border=true" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clixmat)](https://github.com/anuraghazra/github-readme-stats)
+[![Clixmat wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clixmat)](https://wakatime.com/@Clixmat)
 
 
 [vsc]: https://code.visualstudio.com
