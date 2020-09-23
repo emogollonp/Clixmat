@@ -1,6 +1,6 @@
 ### I'm a Husband, Father and Frontend Developer! 👋
 
-- 🔭 I’m currently working on [![Golstats SAPI - México](https://avatars3.githubusercontent.com/u/6002624?s=60&v=4)]([https://golstats.com/)!
+- 🔭 I’m currently working on [Golstats SAPI - México]([https://golstats.com/)!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Nuxt.js
 - 🤔 I’m looking for help with AWS
