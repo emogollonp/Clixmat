@@ -40,7 +40,7 @@
 
 <img align="left" alt="Clixmat Github Stats" src="https://github-readme-stats.clixmat.vercel.app/api?username=clixmat&show_icons=true&hide_border=true" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clixmat)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clixmat)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [vsc]: https://code.visualstudio.com
