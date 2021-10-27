@@ -1,4 +1,4 @@
-### I'm a Husband, Father and Frontend Developer! 👋
+### Frontend Developer! 👋
 
 <!-- PROFILE:START -->
 - 🔭 I’m currently working on [Global66 ](https://global66.com/pe/)!
