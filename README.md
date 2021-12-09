@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
 - 📫 How to reach me: yhemogollon@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Start the full stack developer journey
 - ⚡ Fun fact: I love spending time with my family and learning new programming languages.
 <!-- PROFILE:END -->
 <br />
