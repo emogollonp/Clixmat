@@ -2,12 +2,13 @@
 
 <!-- PROFILE:START -->
 - 🔭 I’m currently working on [Global66 ](https://global66.com/pe/)!
-- 🌱 I’m currently learning Python and Nativescript
+- 🌱 I’m currently learning Python, Nativescript and React Native
 - 👯 I’m looking to collaborate on Nuxt.js
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
+- 👀 know more about me [LinkedIn ]([https://global66.com/pe/](https://pe.linkedin.com/in/eric-mogollon))
 - 📫 How to reach me: yhemogollon@gmail.com
-- 🥅 2022 Goals: Start the full stack developer journey
+- 🥅 2023 Goals: Start the full stack developer journey
 - ⚡ Fun fact: I love spending time with my family and learning new programming languages.
 <!-- PROFILE:END -->
 <br />
