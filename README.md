@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Nuxt.js
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
-- 👀 know more about me [LinkedIn ]([https://global66.com/pe/](https://pe.linkedin.com/in/eric-mogollon)!
+- 👀 know more about me [LinkedIn ]([[https://global66.com/pe/](https://pe.linkedin.com/in/eric-mogollon)])!
 - 📫 How to reach me: yhemogollon@gmail.com
 - 🥅 2023 Goals: Start the full stack developer journey
 - ⚡ Fun fact: I love spending time with my family and learning new programming languages.
