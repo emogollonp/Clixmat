@@ -1,7 +1,7 @@
 ### Frontend Developer! 👋
 
 <!-- PROFILE:START -->
-- 🔭 I’m currently working on [Global66 ](https://global66.com/pe/)
+<!-- - 🔭 I’m currently working on [Global66 ](https://global66.com/pe/)-->
 - 🌱 I’m currently learning Python, Nativescript and React Native
 - 👯 I’m looking to collaborate on Nuxt.js
 - 🤔 I’m looking for help with AWS
