@@ -1,7 +1,7 @@
 ### Frontend Developer! 👋
 
 <!-- PROFILE:START -->
-🔭 I’m currently working on [Marteu INC ](https://marteu.com)
+- 🔭 I’m currently working on [Marteu INC ](https://marteu.com)
 - 🌱 I’m currently learning Python, Nativescript and Java
 - 👯 I’m looking to collaborate on Nuxt.js
 - 🤔 I’m looking for help with AWS
