@@ -1,10 +1,10 @@
 ### Hi there, I'm [Eric Mogollon] 👋
-<br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clixmat&label=Profile%20views&color=0e75b6&style=flat" alt="clixmat" /> </p>
-<br />
+
+<img src="https://komarev.com/ghpvc/?username=clixmat&label=Profile%20views&color=0e75b6&style=flat" alt="clixmat" />
+
 <!-- PROFILE:START -->
 ## About me
-<br />
+
 - 🔭 I’m currently working on [Marteu INC ](https://marteu.com)
 - 🌱 I’m currently learning Python, GO and Astro
 - 👯 I’m looking to collaborate on Nuxt.js
@@ -14,21 +14,23 @@
 - 🥅 2024 Goals: Start the full stack developer journey
 - ⚡ Fun fact: I love spending time with my family and learning new programming languages.
 <!-- PROFILE:END -->
-<br />
+
+<!-- LANGUAGES:START --> 
 ### ⚒️ Languages-Frameworks-Tools
-<br />
-<!-- LANGUAGES:START -->
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,cpp,kotlin,swift" />
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nestjs,angular,vue,nuxtjs,vuetify,tailwind,bootstrap,pinia,flutter,laravel" />
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,github,gitlab,postman" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,graphql,apollo,aws,mysql,kubernetes,jenkins,gcp,docker" /><br>
 <!-- LANGUAGES:END -->
-<br />
+
+
+<!-- TIME:START -->
 ### ⚙️ Time coding Analytics
-<br />
+[![wakatime](https://wakatime.com/badge/user/74828902-31ee-4d20-ab6e-acf3b7b28b6f.svg)](https://wakatime.com/@74828902-31ee-4d20-ab6e-acf3b7b28b6f)<br>
+<!-- TIME:END -->
+
 <!-- STATS:START -->
-[![wakatime](https://wakatime.com/badge/user/74828902-31ee-4d20-ab6e-acf3b7b28b6f.svg)](https://wakatime.com/@74828902-31ee-4d20-ab6e-acf3b7b28b6f)
-<br />
 ### ⚡ GitHub Analytics
 <br />
 <a href="https://github.com/clixmat">
