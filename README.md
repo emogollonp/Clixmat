@@ -35,10 +35,15 @@
 <br />
 <br />
 
-### :zap: Github Stats:
+### ⚙️ &nbsp;GitHub Analytics
 
 <!-- STATS:START -->
-<img align="left" alt="Clixmat Github Stats" src="https://github-readme-stats.clixmat.vercel.app/api?username=clixmat&show_icons=true&hide_border=true" />
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clixmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clixmat&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!-- STATS:END -->
 
 [vsc]: https://code.visualstudio.com
