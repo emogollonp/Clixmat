@@ -2,9 +2,8 @@
 
 <!-- PROFILE:START -->
 - 🔭 I’m currently working on [Marteu INC ](https://marteu.com)
-- 🌱 I’m currently learning Python, Nativescript and Java
+- 🌱 I’m currently learning Python, GO and Astro
 - 👯 I’m looking to collaborate on Nuxt.js
-- 🤔 I’m looking for help with AWS
 - 💬 Ask me about anything
 - 👀 know more about me [LinkedIn ](https://pe.linkedin.com/in/eric-mogollon)
 - 📫 How to reach me: yhemogollon@gmail.com
