@@ -1,6 +1,10 @@
-### Frontend Developer! 👋
+### Hi there, I'm [Eric Mogollon] 👋
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clixmat&label=Profile%20views&color=0e75b6&style=flat" alt="clixmat" /> </p>
 
 <!-- PROFILE:START -->
+## About me
+
 - 🔭 I’m currently working on [Marteu INC ](https://marteu.com)
 - 🌱 I’m currently learning Python, GO and Astro
 - 👯 I’m looking to collaborate on Nuxt.js
@@ -35,9 +39,13 @@
 <br />
 <br />
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Time coding Analytics
 
 <!-- STATS:START -->
+[![wakatime](https://wakatime.com/badge/user/74828902-31ee-4d20-ab6e-acf3b7b28b6f.svg)](https://wakatime.com/@74828902-31ee-4d20-ab6e-acf3b7b28b6f)
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <a href="https://github.com/clixmat">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=clixmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clixmat&layout=compact&langs_count=8&theme=algolia"/>
