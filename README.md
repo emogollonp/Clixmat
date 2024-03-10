@@ -1,8 +1,18 @@
 ### Hi there, I'm Eric Mogollon 👋
-
-<img src="https://komarev.com/ghpvc/?username=clixmat&label=Profile%20views&color=0e75b6&style=flat" alt="clixmat" />
-<img src="https://wakatime.com/badge/user/74828902-31ee-4d20-ab6e-acf3b7b28b6f.svg" alt="clixmat" />
 <br>
+<div align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=clixmat&label=Profile%20views&color=0e75b6&style=flat" alt="clixmat" />
+ <img src="https://wakatime.com/badge/user/74828902-31ee-4d20-ab6e-acf3b7b28b6f.svg" alt="clixmat" />
+</div>
+<br>
+<div align="left"> 
+  <a href="mailto:yhemogollon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://pe.linkedin.com/in/eric-mogollon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 <!-- PROFILE:START -->
 ## 💻 About me
@@ -23,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,cpp,kotlin,swift" />
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nestjs,angular,vue,nuxtjs,vuetify,tailwind,bootstrap,pinia,flutter,laravel" />
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,github,gitlab,postman" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,graphql,apollo,aws,mysql,kubernetes,jenkins,gcp,docker" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,graphql,apollo,aws,mysql,kubernetes,jenkins,gcp,docker" />
 <!-- LANGUAGES:END -->
 
 <!-- STATS:START -->
