@@ -40,8 +40,14 @@
 ## ⚡ GitHub Analytics
 <br />
 <a href="https://github.com/clixmat">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=clixmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clixmat&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=clixmat&layout=compact&langs_count=15&theme=algolia"/> 
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=clixmat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clixmat&layout=compact&langs_count=8&theme=algolia"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=clixmat&layout=compact&langs_count=15&theme=algolia"/> 
+  </div>
 </a>
 <!-- STATS:END -->
