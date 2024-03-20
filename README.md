@@ -34,7 +34,7 @@
 ## ⚒️ Languages-Frameworks-Tools
 
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,cpp,kotlin,swift" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,swift,cpp,kotlin" />
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nestjs,angular,vue,nuxtjs,vuetify,tailwind,bootstrap,pinia,flutter,laravel" />
 <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,github,gitlab,postman" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,graphql,apollo,aws,mysql,kubernetes,jenkins,gcp,docker" />
