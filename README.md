@@ -24,7 +24,6 @@
 -   👯 I’m looking to collaborate on Nuxt.js
 -   💬 Ask me about anything
 -   👀 know more about me [LinkedIn](https://pe.linkedin.com/in/eric-mogollon)
--   📫 How to reach me: <yhemogollon@gmail.com>
 -   🥅 2024 Goals: Start the full stack developer journey
 -   ⚡ Fun fact: I love spending time with my family and learning new programming languages.
 <!-- PROFILE:END -->
