@@ -53,7 +53,7 @@
 	</div>
 	<br>
 	<div>
-		<img  src="https://github-readme-stats.vercel.app/api/wakatime?username=emogollonp&layout=compact&langs_count=15&theme=algolia"/>
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=clixmat&layout=compact&langs_count=15&theme=algolia"/>
 	</div>
 </a>
 <!-- STATS:END -->
