@@ -2,7 +2,6 @@
 
 <br>
 <div align="left">
-	<img src="https://komarev.com/ghpvc/?username=clixmat&label=Profile%20views&color=0e75b6&style=flat" alt="clixmat" />
 	<img src="https://wakatime.com/badge/user/74828902-31ee-4d20-ab6e-acf3b7b28b6f.svg" alt="clixmat" />
 </div>
 <br>
