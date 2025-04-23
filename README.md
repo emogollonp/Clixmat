@@ -43,7 +43,7 @@
 ## ⚡ GitHub Analytics
 
 <br />
-<a href="https://github.com/clixmat">
+<a href="https://github.com/emogollonp">
 	<div>
 		<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=clixmat&layout=compact&langs_count=8&theme=algolia"/>
 	</div>
